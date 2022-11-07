@@ -8,5 +8,5 @@
 import Foundation
 
 struct Secrets {
-    static let API_SECRET = "ASDfnknnbj23432kjxsncb2389yighbs"
+    static let API_POKEMON_EXEMPLO = "ASDfnknnbj23432kjxsncb2389yighbs"
 }
